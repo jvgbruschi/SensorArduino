@@ -5,7 +5,7 @@
 
 ## 💻 Sobre o Projeto
 
-Criado como um dos projetos finais para a matéria de Programação de Computadores, enquanto ainda estava cursando Engenharia química na UNISAGRADo, esse projeto propõe uma programação de um sensor de distância em C++. No final da execução do código, ele também fornece ao usuário a área daquele quarto.
+Criado como um dos projetos finais para a matéria de Programação de Computadores, enquanto ainda estava cursando Engenharia química na UNISAGRADO, esse projeto propõe uma programação de um sensor de distância em C++. No final da execução do código, ele também fornece ao usuário a área daquele quarto.
 
 ## 📚 Bibliotecas utlizadas
 
